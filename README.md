@@ -1,0 +1,3 @@
+# OthelloGame
+JAVA Team Project
+
